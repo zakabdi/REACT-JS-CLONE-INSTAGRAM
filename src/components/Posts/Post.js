@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import Comments from '../Comments/Comments';
 import LikeSection from './LikeSection';
 import PostHeader from './PostHeader';
